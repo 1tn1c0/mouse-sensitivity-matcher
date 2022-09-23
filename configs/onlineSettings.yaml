@@ -4,3 +4,24 @@ download_urls:
 donate_url: https://donate.jw.org/ui/F/donate-home.html#/donate
 startup:
   title: Information
+  content: |
+    <div className="card border-primary m-3">
+      {' '}
+      Cette application est entièrement gratuite
+      <li>
+          Pas de compte
+      </li>
+      <li>
+          Pas d'abonnement
+      </li>
+      <li>
+          Donner quand vous voulez et si vous le pouvez
+      </li>
+      <p align="center">😍</p>
+    </div>
+    <div className="card border-primary m-3">
+        Nous pouvons mettre beaucoup plus<br></br>
+        d'options. N'hésitez pas a m'offrir un café<br></br>
+        afin que je reste bien réveillé  pour <br></br>
+        développer cette aplication 😊
+    </div>
