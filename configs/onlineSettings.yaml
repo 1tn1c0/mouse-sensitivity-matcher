@@ -6,7 +6,6 @@ startup:
   title: Information
   content: |
     <div className="card border-primary m-3">
-      {' '}
       Cette application est entièrement gratuite
       <li>
           Pas de compte
