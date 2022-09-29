@@ -5,7 +5,7 @@ donate_url: https://donate.jw.org/ui/F/donate-home.html#/donate
 startup:
   title: Information
   content: |
-    <div className="modal modal-content modal-dialog-centered">
+    <div className="card border-primary m-12">
       <legend align="center">Bienvenue !!</legend>
       <table>
             <thead>
@@ -21,13 +21,9 @@ startup:
                 Cette application est entièrement gratuite
                 <li>Pas de compte</li>
                 <li>Pas d'abonnement</li>
-                <li>Donner quand vous voulez et si vous le pouvez</li>
+                <li>Donner quand vous voulez <br>et si vous le pouvez</li>
                 <p align="center">😍</p>
               </div>
-            </div>
-            <div className="row">
-              <div className="col-md-8"></div>
-              <div className="col-md-4"></div>
             </div>
           </td>
           <td>
@@ -36,7 +32,7 @@ startup:
               d'options. N'hésitez pas a m'offrir <br>
               un café afin que je reste bien <br>
               réveillé pour développer cette <br>
-              aplication 😊
+              application 😊
             </div>
           </td>
         </tr>
