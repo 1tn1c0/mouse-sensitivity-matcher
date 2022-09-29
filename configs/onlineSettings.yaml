@@ -32,9 +32,10 @@ startup:
           </td>
           <td>
             <div className="card border-primary m-3">
-              Nous pouvons mettre beaucoup plus d'options. N'hésitez pas a m'offrir
-              un café afin que je reste bien réveillé pour développer cette
-              aplication 😊
+              Nous pouvons mettre beaucoup plus <br></br>
+              d'options. N'hésitez pas a m'offrir <br></br
+              un café afin que je reste bien réveillé <br></br
+              pour développer cette application 😊
             </div>
           </td>
         </tr>
