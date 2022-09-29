@@ -6,24 +6,38 @@ startup:
   title: Information
   content: |
     <div className="modal modal-content modal-dialog-centered">
-      <legend align="center">{this.state.title}</legend>
-      <div className="card border-primary m-4">
-        <div>
-          Cette application est entièrement gratuite
-          <li>Pas de compte</li>
-          <li>Pas d'abonnement</li>
-          <li>Donner quand vous voulez et si vous le pouvez</li>
-          <p align="center">😍</p>
-        </div>
-        <div className="card border-primary m-3">
-          Nous pouvons mettre beaucoup plus d'options. N'hésitez pas a m'offrir un
-          café afin que je reste bien réveillé pour développer cette aplication 😊
-        </div>
-      </div>
-      <div className="row">
-        <div className="col-md-8"></div>
-        <div className="col-md-4"></div>
-      </div>
+      <legend align="center">Bienvenue !!</legend>
+      <table>
+            <thead>
+                <tr>
+                    <th colspan="2"></th>
+                </tr>
+            </thead>
+        <tbody>
+        <tr>
+          <td>
+            <div className="card border-primary m-4">
+              <div>
+                Cette application est entièrement gratuite
+                <li>Pas de compte</li>
+                <li>Pas d'abonnement</li>
+                <li>Donner quand vous voulez et si vous le pouvez</li>
+                <p align="center">😍</p>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-md-8"></div>
+              <div className="col-md-4"></div>
+            </div>
+          </td>
+          <td>
+            <div className="card border-primary m-3">
+              Nous pouvons mettre beaucoup plus d'options. N'hésitez pas a m'offrir
+              un café afin que je reste bien réveillé pour développer cette
+              aplication 😊
+            </div>
+          </td>
+        </tr>
+        </tbody>
+      </table>
     </div>
-
-    
