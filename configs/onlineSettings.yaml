@@ -32,23 +32,14 @@ startup:
           </td>
           <td>
             <div className="card border-primary m-3">
-              Nous pouvons mettre beaucoup plus d'options. N'hésitez pas a m'offrir
-              un café afin que je reste bien réveillé pour développer cette
+              Nous pouvons mettre beaucoup plus <br></br>
+              d'options. N'hésitez pas a m'offrir <br></br>
+              un café afin que je reste bien <br></br>
+              réveillé pour développer cette <br></br>
               aplication 😊
             </div>
           </td>
         </tr>
         </tbody>
       </table>
-        <div className="row">
-            <div className="col-md-8">
-                <PayPal></PayPal>
-            </div>
-            <div className="col-md-4">
-                <input type="button" className="btn-close btn-outline-danger btn-toolbar" onClick={()=> {
-                close();
-                }}
-                ></input>
-            </div>
-        </div>
     </div>
