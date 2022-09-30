@@ -5,38 +5,35 @@ donate_url: https://donate.jw.org/ui/F/donate-home.html#/donate
 startup:
   title: Information
   content: |
-    <div class="alert alert-dismissible alert-primary">
-      <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
-      <legend align="center">Bienvenue !!</legend>
-      <table>
-            <thead>
-                <tr>
-                    <th colspan="2"></th>
-                </tr>
-            </thead>
-        <tbody>
-        <tr>
-          <td>
-            <div className="card border-primary m-4">
-              <div>
-                Cette application est entièrement gratuite
-                <li>Pas de compte</li>
-                <li>Pas d'abonnement</li>
-                <li>Donner quand vous voulez <br>et si vous le pouvez</li>
-                <p align="center">😍</p>
-              </div>
+    <legend align="center">Bienvenue !!</legend>
+    <table>
+          <thead>
+              <tr>
+                  <th colspan="2"></th>
+              </tr>
+          </thead>
+      <tbody>
+      <tr>
+        <td>
+          <div className="card border-primary m-4">
+            <div>
+              Cette application est entièrement gratuite
+              <li>Pas de compte</li>
+              <li>Pas d'abonnement</li>
+              <li>Donner quand vous voulez <br>et si vous le pouvez</li>
+              <p align="center">😍</p>
             </div>
-          </td>
-          <td>
-            <div className="card border-primary m-3">
-              Nous pouvons mettre beaucoup plus <br>
-              d'options. N'hésitez pas a m'offrir <br>
-              un café afin que je reste bien <br>
-              réveillé pour développer cette <br>
-              application 😊
-            </div>
-          </td>
-        </tr>
-        </tbody>
-      </table>
-    </div>
+          </div>
+        </td>
+        <td>
+          <div className="card border-primary m-3">
+            Nous pouvons mettre beaucoup plus <br>
+            d'options. N'hésitez pas a m'offrir <br>
+            un café afin que je reste bien <br>
+            réveillé pour développer cette <br>
+            application 😊
+          </div>
+        </td>
+      </tr>
+      </tbody>
+    </table>
